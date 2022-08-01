@@ -1,1 +1,1 @@
-web: gunicorn < pupadopt>:app
+web: gunicorn <app>:app
